@@ -71,7 +71,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true" />
 
 [website]: https://sabesansathananthan.now.sh
 [twitter]: https://twitter.com/TheSabesan
