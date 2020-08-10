@@ -56,6 +56,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Medium
 
 <!-- MEDIUM:START -->
+
 - [Let's Create a COVID-19 Tracker using React.js](https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633?source=rss-b255948cc1f5------2)
 - [How to use the Google Maps API with Custom styling in React.js](https://towardsdatascience.com/how-to-use-the-google-maps-api-with-custom-styling-in-react-js-f6e7e59273df?source=rss-b255948cc1f5------2)
 - [Important VS Code Extensions for React Developers in 2020.](https://blog.usejournal.com/important-vs-code-extensions-for-react-developers-in-2020-2ca8185eee0a?source=rss-b255948cc1f5------2)
@@ -77,7 +78,3 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 [facebook]: https://www.facebook.com/sathananthan.sabesan
 [instagram]: https://www.instagram.com/s_sabesan
 [linkedin]: https://www.linkedin.com/in/sabesan96
-[webdevplaylist]: https://www.youtube.com/playlistlist=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
