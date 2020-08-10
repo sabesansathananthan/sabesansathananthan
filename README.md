@@ -23,70 +23,70 @@
 [<code>
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </code>](https://code.visualstudio.com/)
-<code>
+[<code>
 <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</code>
-<code>
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
 <img alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</code>
-<code>
+</code>](https://reactjs.org/)
+[<code>
 <img alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-</code>
-<code>
+</code>](https://docs.oracle.com/en/java/)
+[<code>
 <img alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</code>
-<code>
+</code>](https://www.python.org/)
+[<code>
 <img alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-</code>
-<code>
+</code>](https://www.typescriptlang.org/)
+[<code>
 <img alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</code>
-<code>
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
 <img alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</code>
-<code>
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
 <img alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-</code>
-<code>
+</code>](https://sass-lang.com/)
+[<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>
-<code>
+</code>](https://www.json.org/json-en.html)
+[<code>
 <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>
-<code>
+</code>](https://eslint.org/)
+[<code>
 <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</code>
-<code>
+</code>](https://nodejs.org/en/)
+[<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>
-<code>
+</code>](https://dev.mysql.com/)
+[<code>
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>
-<code>
+</code>](https://www.latex-project.org/)
+[<code>
 <img alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">
-</code>
-<code>
+</code>](https://www.markdownguide.org/)
+[<code>
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</code>
-<code>
+</code>](https://git-scm.com/)
+[<code>
 <img alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-</code>
-<code>
+</code>](https://github.com/)
+[<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>
+</code>](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
-<code>
+[<code>
 <img alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">
-</code>
-<code>
+</code>](https://www.microsoft.com/en-us/windows)
+[<code>
 <img alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
-</code>
-<code>
+</code>](https://ubuntu.com/)
+[<code>
 <img alt="macos" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
-</code>
-<code>
+</code>](https://developer.apple.com/macos/)
+[<code>
 <img alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-</code>
+</code>](https://www.kernel.org/)
 
 <br />
 <br />
