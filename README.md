@@ -20,9 +20,9 @@
 
 ### Languages and Tools:
 
-<code>
+[<code>
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</code>
+</code>](https://code.visualstudio.com/)
 <code>
 <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </code>
@@ -120,7 +120,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/sabesansathananthan">
 <img align="left" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/sabesansathananthan">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
 
