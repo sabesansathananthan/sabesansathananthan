@@ -23,11 +23,10 @@
 ### Languages and Tools:
 
 [<code>
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
-
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/480/000000/pycharm.png" />
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
 
 [<code>
