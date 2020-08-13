@@ -27,7 +27,7 @@
 </code>](https://code.visualstudio.com/)
 
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/96/000000/pycharm.png" />
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/480/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
 
 [<code>
