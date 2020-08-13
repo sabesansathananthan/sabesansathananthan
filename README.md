@@ -18,6 +18,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools:
 
 [<code>
@@ -122,6 +124,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/sabesansathananthan">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
+
 ---
 
 [website]: https://sabesansathananthan.now.sh
