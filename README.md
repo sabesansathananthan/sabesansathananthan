@@ -27,8 +27,8 @@
 </code>](https://code.visualstudio.com/)
 
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-</code>](https://code.visualstudio.com/)
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/96/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)
 
 [<code>
 <img alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -107,6 +107,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Medium
 
 <!-- MEDIUM:START -->
+
 - [Let's Create a COVID-19 Tracker using React.js](https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633?source=rss-b255948cc1f5------2)
 - [How to use the Google Maps API with Custom styling in React.js](https://towardsdatascience.com/how-to-use-the-google-maps-api-with-custom-styling-in-react-js-f6e7e59273df?source=rss-b255948cc1f5------2)
 - [Important VS Code Extensions for React Developers in 2020.](https://blog.usejournal.com/important-vs-code-extensions-for-react-developers-in-2020-2ca8185eee0a?source=rss-b255948cc1f5------2)
