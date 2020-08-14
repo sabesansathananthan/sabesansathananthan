@@ -105,6 +105,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Medium
 
 <!-- MEDIUM:START -->
+
 - [Let's Create a COVID-19 Tracker using React.js](https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633?source=rss-b255948cc1f5------2)
 - [How to use the Google Maps API with Custom styling in React.js](https://towardsdatascience.com/how-to-use-the-google-maps-api-with-custom-styling-in-react-js-f6e7e59273df?source=rss-b255948cc1f5------2)
 - [Important VS Code Extensions for React Developers in 2020.](https://blog.usejournal.com/important-vs-code-extensions-for-react-developers-in-2020-2ca8185eee0a?source=rss-b255948cc1f5------2)
@@ -122,9 +123,9 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/sabesansathananthan">
-<img align="left" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/sabesansathananthan">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
 
 ---
