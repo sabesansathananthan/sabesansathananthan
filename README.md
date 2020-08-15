@@ -115,6 +115,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
 <!-- DEVTO:END -->
 
 ---
