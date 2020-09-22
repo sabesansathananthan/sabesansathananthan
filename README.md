@@ -115,6 +115,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [GitHub linguistic in JSON ](https://dev.to/thesabesan/github-linguistic-in-json-4446)
 - [Embed Dev.to as a blog on your React Website](https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
 - [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
 <!-- DEVTO:END -->
