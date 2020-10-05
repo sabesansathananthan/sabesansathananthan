@@ -115,6 +115,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [GitHub Resume Generator Challenge](https://dev.to/thesabesan/github-resume-generator-challenge-57dg)
 - [How to contribute to Open Source](https://dev.to/thesabesan/how-to-contribute-to-open-source-1f43)
 - [Embed Dev.to as a blog on your React Website](https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
 - [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
