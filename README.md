@@ -130,7 +130,15 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
 
+
 ---
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
+</p>
+
+---
+
 
 [website]: https://sabesansathananthan.now.sh
 [twitter]: https://twitter.com/TheSabesan
