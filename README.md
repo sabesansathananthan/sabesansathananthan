@@ -32,6 +32,7 @@
 <p align=center>
 <em>Don't hesitate to get in touch!</em>
 </p>
+
 ---
 
 ### Languages and Tools:
