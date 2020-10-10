@@ -12,11 +12,20 @@
 
 
 [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sabesan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Sabesan | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Sabesan | Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+[<img align="left" alt="Sabesan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Sabesan | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="Sabesan | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Sabesan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sabesan | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
+[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sabesan | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />][messenger]
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Sabesan | Dev" width="37px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.4.0/dev-dot-to.svg" />][dev]
+[<img align="left" alt="Sabesan | Flipboard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flipboard.svg" />][flipboard]
 
 <br />
 
@@ -145,8 +154,21 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 
 [website]: https://sabesansathananthan.now.sh
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
 [linkedin]: https://www.linkedin.com/in/sabesan96
+[medium]: https://medium.com/@sabesan96
+[stackoverflow]: https://stackoverflow.com/users/8629258/sathananthan-sabesan
 [dev]: https://dev.to/thesabesan
+[gmail]: mailto:sabesan996@gmail.com
+[quora]:https://www.quora.com/profile/Sathananthan-Sabesan
+[whatsapp]:https://wa.me/94770711017
+[telegram]:https://telegram.me/TheSabesan
+[twitter]: https://twitter.com/TheSabesan
+[skype]:skype:live:a566c037031e4cb?chat
+[facebook]: https://www.facebook.com/sathananthan.sabesan
+[messenger]:https://www.messenger.com/t/sathananthan.sabesan
+[instagram]: https://www.instagram.com/s_sabesan
+[flipboard]:ttps://flipboard.com/@TheSabesan
+
+
+
+
