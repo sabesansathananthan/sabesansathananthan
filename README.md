@@ -163,11 +163,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [whatsapp]:https://wa.me/94770711017
 [telegram]:https://telegram.me/TheSabesan
 [twitter]: https://twitter.com/TheSabesan
-[skype]:skype:live:a566c037031e4cb?chat
+[skype]: skype:live:a566c037031e4cb?chat
 [facebook]: https://www.facebook.com/sathananthan.sabesan
-[messenger]:https://www.messenger.com/t/sathananthan.sabesan
+[messenger]: https://www.messenger.com/t/sathananthan.sabesan
 [instagram]: https://www.instagram.com/s_sabesan
-[flipboard]:ttps://flipboard.com/@TheSabesan
+[flipboard]: https://flipboard.com/@TheSabesan
 
 
 
