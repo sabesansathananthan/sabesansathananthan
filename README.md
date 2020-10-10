@@ -16,8 +16,10 @@
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sabesan | Dev" width="37px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.4.0/dev-dot-to.svg" />][dev]
 
 <br />
+
 <em>Don't hesitate to get in touch!</em>
 
 ---
@@ -147,3 +149,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [facebook]: https://www.facebook.com/sathananthan.sabesan
 [instagram]: https://www.instagram.com/s_sabesan
 [linkedin]: https://www.linkedin.com/in/sabesan96
+[dev]: https://dev.to/thesabesan
