@@ -119,7 +119,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 
 ### Medium
 
-[![Sabesan96's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight)](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight)
+![Sabesan96's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&limit=6&theme=tokyonight)
 
 ### Dev Community
 
