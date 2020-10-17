@@ -119,13 +119,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 
 ### Medium
 
-<!-- MEDIUM:START -->
-- [Embed your GitHub project on your React website](https://medium.com/design-bootcamp/embed-your-github-project-on-your-react-website-ccefacc30f62?source=rss-b255948cc1f5------2)
-- [Embed Medium as a blog on your React Website —  Part 2](https://medium.com/datadriveninvestor/embed-medium-as-a-blog-on-your-react-website-part-2-187db2b60a59?source=rss-b255948cc1f5------2)
-- [Serverless Material UI contact form](https://medium.com/design-bootcamp/serverless-material-ui-contact-form-55296e107609?source=rss-b255948cc1f5------2)
-- [Let's Create a COVID-19 Tracker using React.js](https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633?source=rss-b255948cc1f5------2)
-- [How to use the Google Maps API with Custom styling in React.js](https://towardsdatascience.com/how-to-use-the-google-maps-api-with-custom-styling-in-react-js-f6e7e59273df?source=rss-b255948cc1f5------2)
-<!-- MEDIUM:END -->
+![Sabesan96's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=sabesan96&theme=tokyonight)
 
 ### Dev Community
 
