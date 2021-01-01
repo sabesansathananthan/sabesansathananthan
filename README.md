@@ -147,7 +147,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 [website]: https://sabesansathananthan.now.sh
 [linkedin]: https://www.linkedin.com/in/sabesan96
-[medium]: https://medium.com/@sabesan96
+[medium]: https://sabesan96.medium.com/
 [stackoverflow]: https://stackoverflow.com/users/8629258/sathananthan-sabesan
 [dev]: https://dev.to/thesabesan
 [gmail]: mailto:sabesan996@gmail.com
