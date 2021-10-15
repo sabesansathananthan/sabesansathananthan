@@ -131,7 +131,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ---
 
 ### Stack Overflow
-[![SabesanSathananthan StackOverflow](github-readme-stackoverflow-six.vercel.app/?userID=8629258)](https://stackoverflow.com/users/8629258/sabesan)
+[![SabesanSathananthan StackOverflow](https://github-readme-stackoverflow-six.vercel.app/?userID=8629258)](https://stackoverflow.com/users/8629258/sabesan)
 
 ---
 
