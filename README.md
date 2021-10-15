@@ -122,6 +122,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Five methods for JavaScript to detect mobile browsers](https://dev.to/thesabesan/five-methods-for-javascript-to-detect-mobile-browsers-1jhc)
 - [How to Handle ES6 modules in Node.Js](https://dev.to/thesabesan/how-to-handle-es6-modules-in-node-js-hdn)
 - [Embed Dev.to as a blog on your React Website](https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
 - [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
