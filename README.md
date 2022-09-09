@@ -1,9 +1,9 @@
 ### Hi there, I'm Sabesan Sathananthan - aka [Sabesan][website] <img src="./Icons/Hi.gif" height="32" />
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Postgraduate, Developer, and Technical Writer!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🔭 I’m currently working on Sysco LABS Technologies (PVT) LTD!
+- 🌱 I’m currently learning Fullstack and AWS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play chess and listen music.
